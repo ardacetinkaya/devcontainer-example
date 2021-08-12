@@ -10,5 +10,6 @@ This is simple example for devcontainer.json for development configuration for G
 are options(which are my daily routines nowadays) that are can be included in the container.
 
 
-
-https://github.com/microsoft/vscode-dev-containers
+References:
+- https://code.visualstudio.com/docs/remote/devcontainerjson-reference
+- https://github.com/microsoft/vscode-dev-containers
